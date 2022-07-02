@@ -1,0 +1,1 @@
+ruby mail testi, eğer bu maili aldıysan başarılı
